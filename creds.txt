@@ -1,2 +1,1 @@
-access_key = AKIA2B6E2X4P4FFS2DRX
-secret_key = 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
+
