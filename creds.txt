@@ -1,1 +1,2 @@
-
+access_key = AKIARAFHPOETPQDBW4PF
+secret_key = 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
