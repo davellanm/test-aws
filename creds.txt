@@ -1,2 +1,2 @@
-access_key = AKIARAFHPOETNSE2PXVV
-secret_key = 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
+access_key = 
+secret_key = 
